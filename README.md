@@ -1,5 +1,3 @@
-# 👋 Hi there, I’m Brandon Opere!
-
 ### 🛠️ Founder & Instructional Designer at TechOps Apex  
 *Software & Product Engineer | AI Developer Advocate | Technical Writer*
 
@@ -7,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-I'm Brandon — a passionate product engineer and AI advocate, building tools that help developers unlock the full power of modern technologies. As **Founder and DevRel at TechOps Apex**, I blend hands-on product development with developer education, technical writing, and community engagement.
+A passionate product engineer and AI advocate, building tools that help developers unlock the full power of modern technologies. As **Founder and DevRel at TechOps Apex**, I blend hands-on product development with developer education, technical writing, and community engagement.
 
 At the heart of my work lies a strong focus on **AI developer tools**. I’ve worked extensively with platforms like:
 
