@@ -1,4 +1,4 @@
-### 🛠️ Founder & Instructional Designer at TechOps Apex  
+### 🛠️ Technical Trainer | Tech-Preneur & Head of Products | at TechOps Hub 
 *Software & Product Engineer | AI Developer Advocate | Technical Writer*
 
 ---
