@@ -1,4 +1,4 @@
-### 🛠️ Technical Trainer | Tech-Preneur & Head of Products | at TechOps Hub 
+### 🛠️ Technical Trainer | Tech-Preneur & Head of Products |
 *Software & Product Engineer | AI Developer Advocate | Technical Writer*
 
 ---
