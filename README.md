@@ -1,4 +1,4 @@
-### 🛠️ Technical Trainer | Tech-Preneur & Head of Products |
+### 🛠️ Technical Trainer | Tech-Preneur & Software Engineer|
 *Software & Product Engineer | AI Developer Advocate | Technical Writer*
 
 ---
