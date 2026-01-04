@@ -1,4 +1,4 @@
-### 🛠️ Technical Trainer | Product Instructor & Software Engineer
+### 🛠️ Innovator, AI Researcher and Engineer in Education
 
 *Software & Product Engineer | AI Developer Advocate | Technical Writer*
 
