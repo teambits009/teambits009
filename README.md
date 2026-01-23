@@ -1,4 +1,4 @@
-### 🛠️ Innovator, AI Researcher and Engineer in Education
+### 🛠️ AI Judge, International Speaker and Edtech Engineer
 
 ---
 
