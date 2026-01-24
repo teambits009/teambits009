@@ -1,4 +1,4 @@
-### 🛠️ AI Judge, International Speaker and Edtech Engineer
+### 🛠️ AI Judge, International Speaker and Software Engineer
 
 ---
 
