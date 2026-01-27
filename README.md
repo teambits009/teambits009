@@ -1,4 +1,4 @@
-### 🛠️ AI Judge, International Speaker and Software Engineer 
+### 🛠️ AI Judge, Technical Instructor and Software/Product Engineer 
 
 ---
 
