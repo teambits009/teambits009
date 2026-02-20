@@ -1,4 +1,4 @@
-### 🛠️ AI Judge, Technical Instructor and Software/Product Engineer 
+### 🛠️ AI Judge, AI Researcher and and Engineer 
 
 ---
 
