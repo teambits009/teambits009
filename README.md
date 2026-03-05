@@ -6,7 +6,7 @@
 
 Professional technical instructor specializing in advanced software engineering, product development, and emerging technologies. I simplify complex technical concepts and guide learners to build real-world, production-ready systems. I design structured curricula that blend theory with hands-on implementation, enabling learners to create market-ready products and gain industry-level experience.
 
-I focus on **AI in education**, driving innovation in learning design and technology adoption. I also work on educational policy and securing funding for incubation hubs. My work converts technical learning into systems that produce founders, deployable products, and measurable economic impact. I collaborate with government institutions, international organizations, and private foundations on curriculum design, workforce development, digital-skills pipelines, and scalable incubation models that attract investment and long-term funding through a structured-skilled ecosystem.
+I focus on **AI in education**, driving innovation in learning design and technology adoption. I also work on educational policy and securing funding for incubation hubs. My work converts technical learning into systems that produce skilled talent, founders, deployable products, and measurable economic impact. I also collaborate with government institutions, international organizations, and private foundations on curriculum design, workforce development, digital-skills pipelines, and scalable incubation models that attract investment and long-term funding through a structured-skilled ecosystem.
 
 ---
 
